@@ -1,0 +1,1 @@
+This is the first README for thinkful's web dev program.
